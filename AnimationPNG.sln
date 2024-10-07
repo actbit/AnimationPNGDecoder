@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationPNG", "AnimationPNG\AnimationPNG.csproj", "{F6D88256-692E-4786-B27C-3D7E51DED12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D88256-692E-4786-B27C-3D7E51DED12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D88256-692E-4786-B27C-3D7E51DED12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D88256-692E-4786-B27C-3D7E51DED12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D88256-692E-4786-B27C-3D7E51DED12A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {032CD2B2-FBFF-477F-A91D-03A88DD6B4B7}
+	EndGlobalSection
+EndGlobal
