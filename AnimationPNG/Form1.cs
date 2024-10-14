@@ -124,7 +124,7 @@ namespace AnimationPNG
             Timer.Stop();
             var d = new Decoder.Decode(File.ReadAllBytes(textBox1.Text));
             byte[] data = d.Image.LineDatas();
-            data=d.Image.ChengeDotNet(data);
+            data=d.Image.ChangeDotNet(data);
             PixelFormat pixel;
 
             if (d.Image.PixelSize == 4)

@@ -167,7 +167,7 @@ namespace AnimationPNG.Decoder
             }
             return rdata;
         }
-        internal byte[] ChengeDotNet(byte[] data)
+        internal byte[] ChangeDotNet(byte[] data)
         {
             int next = PixelSize;
             byte t1;
